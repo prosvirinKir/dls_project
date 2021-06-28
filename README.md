@@ -15,4 +15,4 @@
 
 На выходе должно получиться что-то вроде этого:
 
-![Bot's output](example_output)
+![Bot's output](example_output.png)
