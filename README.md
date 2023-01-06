@@ -1,18 +1,18 @@
 # telegram bot
-## image style transfering 
+## Image style transfering 
 
-Это бот, который может поменять стиль входной картинки. 
-Для этого нужно загрузить *две* фотографии:
-1. Первая - это та, у которой вы хотите поменять стиль, 
-2. Вторая - это та, в каком стиле все будет.
+This is a bot that can change the style of the input image.
+To do this, you need to upload *two* photos:
+1. The first - you want to change the style of,
+2. The second - in which style everything will be.
 
-Напишите /start, чтобы начать и /help, чтобы вывести справку.
+Write /start to get started and /help to display help.
 
-Бот возвращает итоговую картинку примерно через минуту, поэтому придется немного подождать, пока случится магия.
-Размер выходной картинки 200\*200.
+The bot returns the final image in about a minute, so you have to wait a bit for the magic to happen.
+Output image size is 200\*200.
 
-**Замечание.** Чтобы итоговое качество было лучше, загрузите второе фото в разрешении 200\*200.
+**Note.** For better final quality, upload the second photo in 200\*200 resolution.
 
-На выходе должно получиться что-то вроде этого:
+The output should look something like this:
 
 ![Bot's output](example_output.png)
